@@ -1,3 +1,3 @@
 ﻿# Web-Design-Lab
 
-WEB-Design Lab Assignment
+**WEB-Design Lab Assignment**
